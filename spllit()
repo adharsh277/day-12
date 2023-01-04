@@ -1,0 +1,13 @@
+fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(fruits[2:5])
+print(fruits[-1])
+print(fruits[4])
+print(fruits[-3])
+print(fruits[-4])
+print(fruits[1:4])
+print(fruits[3:6])
+x=(" we are the freedom of the collages")
+print(x)
+print(x.split())
+print(x.upper())
+print(x.lower())
